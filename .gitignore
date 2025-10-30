@@ -1,6 +1,6 @@
 # ignorataan kaikki .tmp päättyvät tiedostot juurihakemistossa
 /*.tmp
 
-# ignorataan hakemistot joiden nimi on "__pycache__" ja "-pytest_cache"
+# ignorataan hakemistot joiden nimi on "__pycache__" ja ".pytest_cache"
 __pycache__/
 .pytest_cache/
