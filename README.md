@@ -1,5 +1,5 @@
 # Ohjelmistotuotanto, TEKA2500
-![GHA workflow badge](https://github.com/Smuli99/ohtuvarasto/workflows/CI/badge.svg)
+[![GHA workflow badge](https://github.com/Smuli99/ohtuvarasto/workflows/CI/badge.svg)](https://github.com/Smuli99/ohtuvarasto/actions)
 
 Kurssin ensimmäisen viikon tehtävä palautuksia varten luotu repositorio
 
