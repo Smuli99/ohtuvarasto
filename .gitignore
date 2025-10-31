@@ -3,4 +3,5 @@
 
 # ignorataan hakemistot joiden nimi on "__pycache__" ja ".pytest_cache"
 __pycache__/
-.pytest_cache/
+.pytest_cache
+.venv
