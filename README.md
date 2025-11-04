@@ -2,7 +2,10 @@
 [![GHA workflow badge](https://github.com/Smuli99/ohtuvarasto/workflows/CI/badge.svg)](https://github.com/Smuli99/ohtuvarasto/actions)
 [![codecov](https://codecov.io/github/Smuli99/ohtuvarasto/graph/badge.svg?token=C9F1QW344Q)](https://codecov.io/github/Smuli99/ohtuvarasto)
 
-Kurssin ensimmäisen viikon tehtävä palautuksia varten luotu repositorio
+Kurssin viikkotehtävä palautuksia varten luotu repositorio
+
+<details>
+<summary>Viikko 1</summary>
 
 ## 1. Gitin alkeen [versionhallinta]
 
@@ -149,4 +152,5 @@ source = src
 - Lisää projektin .gitignore-tiedostoon tiedosto .coverage ja hakemisto htmlcov
 - Kun luokan ```Varasto``` (tiedoston src/varasto.py) testien haarautumakattavuus (branch coverage) on 100%, pushaa tekemäsi muutokset GitHubiin
 
+</details>
 </details>
