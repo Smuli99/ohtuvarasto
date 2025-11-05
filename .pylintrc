@@ -1,6 +1,7 @@
 [MASTER]
 
 ignore=tests,index.py
+ignore-patterns=tests/*
 
 [MESSAGE CONTROL]
 
