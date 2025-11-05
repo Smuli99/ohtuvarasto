@@ -1,6 +1,6 @@
 [MASTER]
 
-ignore=src/tests,index.py
+ignore=tests,index.py
 
 [MESSAGE CONTROL]
 
